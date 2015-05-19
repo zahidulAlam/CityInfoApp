@@ -1,0 +1,27 @@
+E:\zahid\CityInfoApp\CityInfoApp\bin\Debug\CityInfoApp.exe.config
+E:\zahid\CityInfoApp\CityInfoApp\bin\Debug\CityInfoApp.exe
+E:\zahid\CityInfoApp\CityInfoApp\bin\Debug\CityInfoApp.pdb
+E:\zahid\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.csprojResolveAssemblyReference.cache
+E:\zahid\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.Form1.resources
+E:\zahid\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.Properties.Resources.resources
+E:\zahid\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.csproj.GenerateResource.Cache
+E:\zahid\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.exe
+E:\zahid\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.pdb
+D:\SEIP\test\City Info\CityInfoApp\bin\Debug\CityInfoApp.exe.config
+D:\SEIP\test\City Info\CityInfoApp\obj\Debug\CityInfoApp.exe
+D:\SEIP\test\City Info\CityInfoApp\obj\Debug\CityInfoApp.pdb
+D:\SEIP\test\City Info\CityInfoApp\bin\Debug\CityInfoApp.exe
+D:\SEIP\test\City Info\CityInfoApp\bin\Debug\CityInfoApp.pdb
+D:\SEIP\test\City Info\CityInfoApp\obj\Debug\CityInfoApp.csprojResolveAssemblyReference.cache
+D:\SEIP\test\City Info\CityInfoApp\obj\Debug\CityInfoApp.Form1.resources
+D:\SEIP\test\City Info\CityInfoApp\obj\Debug\CityInfoApp.Properties.Resources.resources
+D:\SEIP\test\City Info\CityInfoApp\obj\Debug\CityInfoApp.csproj.GenerateResource.Cache
+D:\SEIP\City Info\CityInfoApp\bin\Debug\CityInfoApp.exe.config
+D:\SEIP\City Info\CityInfoApp\obj\Debug\CityInfoApp.exe
+D:\SEIP\City Info\CityInfoApp\obj\Debug\CityInfoApp.pdb
+D:\SEIP\City Info\CityInfoApp\bin\Debug\CityInfoApp.exe
+D:\SEIP\City Info\CityInfoApp\bin\Debug\CityInfoApp.pdb
+D:\SEIP\City Info\CityInfoApp\obj\Debug\CityInfoApp.csprojResolveAssemblyReference.cache
+D:\SEIP\City Info\CityInfoApp\obj\Debug\CityInfoApp.Form1.resources
+D:\SEIP\City Info\CityInfoApp\obj\Debug\CityInfoApp.Properties.Resources.resources
+D:\SEIP\City Info\CityInfoApp\obj\Debug\CityInfoApp.csproj.GenerateResource.Cache
